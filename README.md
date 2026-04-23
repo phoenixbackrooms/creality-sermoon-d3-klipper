@@ -21,7 +21,7 @@ Firmware compilation options:
 - [X] Part cooling fan
 - [X] Hotend cooling fan
 - [X] Exhaust fans
-- [ ] Door sensor (Can't find the pin for it.)
+- [ ] Door sensor (Can't find the pin for it. [Another user does have the door sensor configured, but I was unable to verify functionality on my machine.](https://github.com/autodad/Sermoon-D3-Klipper-config))
 - [ ] LCD (May be fixable.)
 - [ ] Camera (Likely not fixable, likely routed to secondary MCU.)
 
